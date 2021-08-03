@@ -1,1 +1,1 @@
-print('Result Of Pow Is: ', 5 * 5 * 5)
+print('Result Of Pow Is: ', pow(5, 3))
