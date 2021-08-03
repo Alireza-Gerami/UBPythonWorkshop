@@ -1,0 +1,1 @@
+print('Result Of Pow Is: ', 5 * 5 * 5)
