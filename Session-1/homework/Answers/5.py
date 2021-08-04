@@ -1,6 +1,5 @@
-h = 5
-m = 46
-s = 35
+h, m, s = 5, 42, 35
+
 total_seconds = 0
 total_seconds +=  5 * 60 * 60 
 total_seconds += 46 * 60
