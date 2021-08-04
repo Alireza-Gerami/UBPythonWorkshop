@@ -1,0 +1,1 @@
+print('Result Of Pow Is: ', pow(5, 3))
