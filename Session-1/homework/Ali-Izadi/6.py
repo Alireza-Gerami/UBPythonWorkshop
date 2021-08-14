@@ -1,1 +1,0 @@
-print("Result Of Correct Division Is: ", (int)(12.54//3.15))
