@@ -1,0 +1,5 @@
+# (a-z) (0-9)
+print('alireza123'.isalnum())
+print('1'.isalnum())
+print('python workshop'.isalnum())
+print('1$ is 27 T'.isalnum())

@@ -1,0 +1,5 @@
+print('Alireza'.islower())
+print('alireza %'.islower())
+print('Alireza'.isupper())
+print('PYTHON12'.isupper())
+print('PyThon'.islower())
